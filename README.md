@@ -1,2 +1,14 @@
 # Colledge-fest-Website
-A dark-themed, multi-page college fest website with events, schedule, registration, gallery, and FAQs.   Built using HTML, CSS, and JS(minor) with funky animations and an interactive design.  
+A multi-page dark-themed website for a college fest with:
+
+🏠 Homepage (event info with hero section)
+
+🎭 Events page (competitions list)
+
+📅 Schedule table (event timings + venues)
+
+📝 Registration form (for participants)
+
+📸 Animated photo gallery (grid with hover effects)
+
+📞 Contact & FAQs (interactive accordion style)
